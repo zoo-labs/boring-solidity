@@ -1,8 +1,8 @@
 {
-  "name": "@boringcrypto/boring-solidity",
+  "name": "@zoolabs/solidity",
   "version": "2.0.3",
   "private": false,
-  "description": "BoringSolidity",
+  "description": "Zoo standard solidity",
   "directories": {
     "test": "test"
   },
@@ -32,14 +32,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boringcrypto/BoringSolidity.git"
+    "url": "git+https://github.com/zoo-labs/solidity.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boringcrypto/BoringSolidity/issues"
+    "url": "https://github.com/zoo-labs/solidity/issues"
   },
-  "homepage": "https://github.com/boringcrypto/BoringSolidity#readme",
+  "homepage": "https://github.com/zoo-labs/solidity#readme",
   "devDependencies": {
     "@codechecks/client": "^0.1.10",
     "@nomiclabs/hardhat-ethers": "^2.0.1",
